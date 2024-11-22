@@ -8,3 +8,7 @@ A webcam-based system that detects the users body or user can choose one of its 
 
 ![Screenshot_2](https://github.com/user-attachments/assets/7a849b8b-992f-4830-abb6-26119a167ca5)
 ![Screenshot_1](https://github.com/user-attachments/assets/cfbb55ef-6ecb-4747-be04-ec96e639ef1b)
+
+## Note: 
+This project is under construction and not mature enough at the moment. You can share your ideas or thoughts with us!
+We're open for your response.
